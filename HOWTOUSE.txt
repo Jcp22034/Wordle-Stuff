@@ -1,0 +1,7 @@
+Game.exe - Wordle game
+Solver.exe - Wordle solver
+Sorter.exe - Word sorter (gives data on all the words, data can be found in the data/sorted json files.)
+all5letterwords2.txt - All words they use, do not remove.
+data1 - gives data on all possible wordle words
+
+hf :)
